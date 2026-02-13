@@ -1,5 +1,5 @@
-function calcularMDS(a, b){
-    while(b !== 0){
+function calcularMDS(a, b) {
+    while (b !== 0) {
         let temp = b;
         b = a % b;
         a = temp;
@@ -8,3 +8,5 @@ function calcularMDS(a, b){
 }
 
 console.log(calcularMDS(48, 18)); // Output: 6
+
+module.exports = { calcularMDS };

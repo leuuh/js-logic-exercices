@@ -11,3 +11,5 @@ function sumultiplos() {
 }
 
 console.log(sumultiplos());
+
+module.exports = { sumultiplos };
