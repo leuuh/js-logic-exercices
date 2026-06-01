@@ -68,9 +68,3 @@ node MDC.js
 - ✅ Busca em Arrays
 - ✅ Algoritmos Clássicos (Euclides)
 - ✅ Funções e Retorno de Valores
-
----
-
-## 📄 Licença
-
-Este projeto é de código aberto e disponível para fins educacionais.
